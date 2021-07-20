@@ -1,0 +1,26 @@
+{
+	"itemsPrice" : 1000,
+	"taxPrice" : 100,
+	"shippingPrice" : 100,
+	"totalPrice" : 1200,
+	"orderedItems" : [
+		{
+			"product" : "60c0ae8c961a0153683e9e77",
+			"name" : "Weighting Machine",
+			"price" : 1000,
+			"image" : "https://res.cloudinary.com/dy0tqwsxl/image/upload/v1625158145/products/plsjyrnqaj0hgfvaz9w6.jpg",
+			"quantity" : 10
+		}
+	],
+	"shippingDetails" : [{
+		"address" : "3951  MH street",
+		"city" : "Kochin",
+		"phoneNo" : 12345678,
+		"postalCode" : 123321,
+		"country" : "India"
+	}],
+	"paymentInfo" : {
+		"id" : "pi_1HrMVNAlHMiRMt8E1BguvVIo",
+		"status": "succeeded"
+	}
+}
